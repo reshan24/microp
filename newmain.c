@@ -13,6 +13,6 @@
  */
 int main(int argc, char** argv) {
 
-    return (EXIT_SUCCESS); //testingonline
+    return (EXIT_SUCCESS); //testingoffline
 }
 
